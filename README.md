@@ -11,13 +11,19 @@ Dataset Link: https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 
 There are various classification algorithms present out of which I shall implement the following:
-● Decision Tree Classifier
-● Gaussian Naive Bayes
-● K-Mean Clustering
-● Neural Networks: MLP
-● Random Forest
-● XGBoost Classifier
+
+- Decision Tree Classifier
+- Gaussian Naive Bayes
+- K-Mean Clustering
+- Neural Networks: MLP
+- Random Forest
+- XGBoost Classifier
 
 You can see results in our Report.pdf
+
+Contributed by:
+
+- Lakshya Kumawat (B20AI019)
+- Hemant (B20EE024)
 
 Happy Coding!!
