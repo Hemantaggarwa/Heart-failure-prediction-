@@ -21,7 +21,8 @@ There are various classification algorithms present out of which I shall impleme
 
 You can see results in our Report.pdf
 
-Contributed by:
+<hr>
+<h3> Contributed by: </h3>
 
 - Lakshya Kumawat (B20AI019)
 - Hemant (B20EE024)
